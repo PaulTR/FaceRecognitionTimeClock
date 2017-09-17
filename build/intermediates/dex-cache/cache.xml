@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Documents/code/android-tmp/TimeClock/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76e49c8f8fabe528721f3a178c3074ea309736e2">
+        <dex dex="/Users/paul/Documents/code/android-tmp/TimeClock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66b76049adfab1f2490169bce180a4d532676c2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/.android/build-cache/fd26845b172aa4c67e82e7adfc0718cfa156ef7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/paul/Documents/code/android-tmp/TimeClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_849107008f6433e79f53eb4a76e36e122b229b7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Documents/code/android-tmp/TimeClock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/paul/Documents/code/android-tmp/TimeClock/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7af782530feb6eeaba92c0eb0faa1e9d78fadbd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/paul/Documents/code/android-tmp/TimeClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_6daa59ea83643627a9e2edb57b1494e640c55a1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/paul/Documents/code/android-tmp/TimeClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_76bc74e58814dba9cc5a3f49ffa89cdca25cd04b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/.android/build-cache/1f030898658500f204b0866eab6883ee7601522f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d899b9f73499afa5da1e3106b042587a56e53de4">
+        <dex dex="/Users/paul/Documents/code/android-tmp/TimeClock/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d614fe0a9bf35c2940f235eed574086a3a6b8b4/classes.dex" />
+    </item>
+
+</items>
